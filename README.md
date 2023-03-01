@@ -4,5 +4,6 @@ for git tutorial
 ## git Tutorial Document
 ## update on github
 
-- Bob Cat bob@mail.com
-- Tom Cat tom@mail.com
+- Bob Cat  bob@mail.com
+- Tom Cat  tom@mail.com
+- Sue Lamb sue@mail.com
